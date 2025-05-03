@@ -1,4 +1,4 @@
-### Olá ! eu sou Ian Lucas
+### Hi ! I'm Ian Lucas
 
 [![insta_pessoal](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ac3r9x/)
 
