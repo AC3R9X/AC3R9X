@@ -1,4 +1,4 @@
-## 🗺️ Cybersecurity Roadmap / Roadmap de Cibersegurança
+## 🗺️ Cybersecurity Roadmap / Roteiro de Cibersegurança
 
 | Path / Trilha | Status |
 |---|:---:|
