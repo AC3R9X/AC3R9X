@@ -2,25 +2,113 @@
 
 # Ian Lucas | AC3R9X
 
-### Cybersecurity Student · Ethical Learner · Portfolio in Progress
+### Cybersecurity Portfolio · Ethical Learning · Continuous Development
 
-[![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-7C3AED?style=for-the-badge&logo=shield&logoColor=white)](#)
-[![TryHackMe](https://img.shields.io/badge/Platform-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](#)
-[![Status](https://img.shields.io/badge/Status-Learning%20in%20Progress-16A34A?style=for-the-badge&logo=bookstack&logoColor=white)](#)
+[![Cybersecurity](https://img.shields.io/badge/Portfolio-Cybersecurity-7C3AED?style=for-the-badge&logo=shield&logoColor=white)](#)
+[![Roadmap](https://img.shields.io/badge/Roadmap-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](#)
+[![Practice](https://img.shields.io/badge/Practice-Ethical%20%26%20Authorized-16A34A?style=for-the-badge&logo=checkmarx&logoColor=white)](#)
 
 </div>
 
 ---
 
-## 🎯 Current Mission / Missão Atual
+## 👤 About / Sobre
 
-| Area | Current progress |
-|---|---|
-| **Learning path / Trilha atual** | TryHackMe — Pre Security |
-| **Progress / Progresso** | `3 / 7 modules completed` |
-| **Portfolio goal / Objetivo** | Document practical learning and build cybersecurity projects |
-| **Practice / Prática** | Authorized labs and ethical environments only |
+I am building a cybersecurity portfolio through structured learning, hands-on practice, and consistent documentation.
 
-```text
-Pre Security Progress
-[██████░░░░░░░░] 43%
+Estou construindo um portfólio de Cybersecurity por meio de aprendizado estruturado, prática em ambientes autorizados e documentação consistente.
+
+---
+
+## 📊 Cybersecurity Roadmap / Roadmap de Cybersecurity
+
+| Track / Área | Focus / Foco | Status |
+|---|---|:---:|
+| 🟦 **Security Analyst** | Detection, monitoring, investigation and defense | ⏳ |
+| 🟥 **Penetration Tester** | Ethical hacking, web security and red team operations | ⏳ |
+| 🟨 **Security Engineer** | Secure systems, cloud security and DevSecOps | ⏳ |
+| 🟪 **AI Security** | Security challenges and applications involving AI | ⏳ |
+
+**Legend / Legenda:** `✅ Completed` · `🔄 In Progress` · `⏳ Planned`
+
+---
+
+## 🗺️ Complete Learning Map / Mapa Completo de Aprendizado
+
+<details>
+<summary><b>🟦 Security Analyst</b></summary>
+
+<br>
+
+| Status | Learning Path |
+|:---:|---|
+| ⏳ | SOC Level 1 |
+| ⏳ | Security Analyst Level 1 (SAL1) |
+| ⏳ | SOC Level 2 |
+| ⏳ | Security Analyst Level 2 (SAL2) |
+| ⏳ | Advanced Endpoint Investigations |
+| ⏳ | Defending Azure |
+
+</details>
+
+<details>
+<summary><b>🟥 Penetration Tester</b></summary>
+
+<br>
+
+| Status | Learning Path |
+|:---:|---|
+| ⏳ | Jr Penetration Tester |
+| ⏳ | Jr Penetration Tester (PT1) |
+| ⏳ | Web Application Pentesting |
+| ⏳ | Web App Pentester Level 1 (WEB1) |
+| ⏳ | Web Application Red Teaming |
+| ⏳ | Red Teaming |
+
+</details>
+
+<details>
+<summary><b>🟨 Security Engineer</b></summary>
+
+<br>
+
+| Status | Learning Path |
+|:---:|---|
+| ⏳ | Security Engineer |
+| ⏳ | DevSecOps |
+| ⏳ | Defending AWS |
+
+</details>
+
+<details>
+<summary><b>🟪 AI Security</b></summary>
+
+<br>
+
+| Status | Learning Path |
+|:---:|---|
+| ⏳ | AI Security |
+| ⏳ | AI Security Level 1 (AI1) |
+
+</details>
+
+---
+
+## 📁 Portfolio Structure / Estrutura do Portfólio
+
+This profile will organize repositories containing:
+
+- Study notes and learning summaries / Anotações e resumos de estudo
+- Commands and tool references / Comandos e referências de ferramentas
+- Authorized lab documentation / Documentação de laboratórios autorizados
+- Cybersecurity projects and practical exercises / Projetos e exercícios práticos
+
+---
+
+<div align="center">
+
+### Learn responsibly. Document consistently. Build with purpose.
+
+[![GitHub](https://img.shields.io/badge/GitHub-%40AC3R9X-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AC3R9X)
+
+</div>
