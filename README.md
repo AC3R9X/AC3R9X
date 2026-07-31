@@ -1,51 +1,26 @@
-# Hi, I'm Ian Lucas 👋
+<div align="center">
 
-## Cybersecurity Student | Continuous Learner
+# Ian Lucas | AC3R9X
 
-I am building my foundations in cybersecurity through hands-on learning, documentation, and ethical security practices.
+### Cybersecurity Student · Ethical Learner · Portfolio in Progress
 
-> My goal is to develop practical skills, create meaningful projects, and build a professional cybersecurity portfolio.
+[![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-7C3AED?style=for-the-badge&logo=shield&logoColor=white)](#)
+[![TryHackMe](https://img.shields.io/badge/Platform-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](#)
+[![Status](https://img.shields.io/badge/Status-Learning%20in%20Progress-16A34A?style=for-the-badge&logo=bookstack&logoColor=white)](#)
 
----
-
-### 🎯 Current Focus
-
-- Completing the **TryHackMe Pre Security** learning path
-- Progress: **3 of 7 modules completed**
-- Building a structured GitHub portfolio with study notes and practical projects
-- Strengthening fundamentals in networking, Linux, web technologies, and security concepts
+</div>
 
 ---
 
-### 🛡️ Learning Principles
+## 🎯 Current Mission / Missão Atual
 
-- Learn ethically and responsibly
-- Document concepts, commands, and lessons learned
-- Practice only in authorized labs and environments
-- Turn learning progress into useful portfolio projects
-
----
-
-### 📂 Portfolio Roadmap
-
-This profile will document my cybersecurity journey, including:
-
-- TryHackMe learning notes
-- Linux and networking fundamentals
-- Security tools and command references
-- Python automation projects
-- Web security and penetration testing studies
-- Blue Team, Red Team, Cloud Security, and AI Security learning paths
-
----
-
-### 🧰 Technologies & Topics
-
-`Cybersecurity` · `TryHackMe` · `Linux` · `Networking` · `Python` · `Git & GitHub` · `Web Security`
-
----
-
-### 📈 Current Status
+| Area | Current progress |
+|---|---|
+| **Learning path / Trilha atual** | TryHackMe — Pre Security |
+| **Progress / Progresso** | `3 / 7 modules completed` |
+| **Portfolio goal / Objetivo** | Document practical learning and build cybersecurity projects |
+| **Practice / Prática** | Authorized labs and ethical environments only |
 
 ```text
-[██████░░░░░░░░] Pre Security — 3/7 modules completed
+Pre Security Progress
+[██████░░░░░░░░] 43%
