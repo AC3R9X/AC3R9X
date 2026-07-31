@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Ian Lucas 👋
 
-<!--
-**AC3R9X/AC3R9X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Cybersecurity Student | Continuous Learner
 
-Here are some ideas to get you started:
+I am building my foundations in cybersecurity through hands-on learning, documentation, and ethical security practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> My goal is to develop practical skills, create meaningful projects, and build a professional cybersecurity portfolio.
+
+---
+
+### 🎯 Current Focus
+
+- Completing the **TryHackMe Pre Security** learning path
+- Progress: **3 of 7 modules completed**
+- Building a structured GitHub portfolio with study notes and practical projects
+- Strengthening fundamentals in networking, Linux, web technologies, and security concepts
+
+---
+
+### 🛡️ Learning Principles
+
+- Learn ethically and responsibly
+- Document concepts, commands, and lessons learned
+- Practice only in authorized labs and environments
+- Turn learning progress into useful portfolio projects
+
+---
+
+### 📂 Portfolio Roadmap
+
+This profile will document my cybersecurity journey, including:
+
+- TryHackMe learning notes
+- Linux and networking fundamentals
+- Security tools and command references
+- Python automation projects
+- Web security and penetration testing studies
+- Blue Team, Red Team, Cloud Security, and AI Security learning paths
+
+---
+
+### 🧰 Technologies & Topics
+
+`Cybersecurity` · `TryHackMe` · `Linux` · `Networking` · `Python` · `Git & GitHub` · `Web Security`
+
+---
+
+### 📈 Current Status
+
+```text
+[██████░░░░░░░░] Pre Security — 3/7 modules completed
